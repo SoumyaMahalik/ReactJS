@@ -1,0 +1,29 @@
+img
+{
+    height: 250px;
+    width: 180px;
+}
+.movies
+{
+    display: flex;
+    gap: 50px;
+}
+.movie
+{
+    box-shadow: 2px 2px 2px red;
+    padding: 20px;
+}
+.cmovies
+{
+    display: flex;
+    gap: 20px;
+}
+h2{
+    background-color: red;
+}
+body{
+    background-color: black;
+}
+h3{
+    color: white;
+}
